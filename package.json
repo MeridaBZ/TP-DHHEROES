@@ -1,0 +1,14 @@
+{
+  "name": "tp-servidores",
+  "version": "1.0.0",
+  "description": "desarrollo del trabajo practico de dh heroes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mariana blanez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
